@@ -9,7 +9,7 @@ export function HeroSection7() {
         <div className="flex gap-12 lg:gap-16">
           <div className="flex flex-col lg:flex-row gap-4 md:gap-6 lg:gap-8">
             <h1 id="hero-heading" className="text-foreground text-3xl lg:text-5xl font-bold flex-1">
-              Работай умнее, а не больше с <span className="text-primary">СмартФлоу</span>
+              Работай умнее, а не больше со <span className="text-primary">СмарФлоу</span>
             </h1>
             <div className="flex-1 w-full flex flex-col gap-8">
               <p className="text-muted-foreground text-base lg:text-lg">
